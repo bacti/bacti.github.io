@@ -1,13 +1,6 @@
----
-title: 'Assignment Human Activity Prediction'
-output:
-    html_document:
-        keep_md: true
-author: Hai Bacti
-date: "September 20, 2020"
----
-
-
+# Assignment Human Activity Prediction  
+**Hai Bacti**  
+*September 20, 2020*
 
 ### Overview
 
