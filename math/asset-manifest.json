@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/math/static/css/main.90e58aee.chunk.css",
-    "main.js": "/math/static/js/main.65ead6b4.chunk.js",
-    "main.js.map": "/math/static/js/main.65ead6b4.chunk.js.map",
+    "main.css": "/math/static/css/main.3c1112fc.chunk.css",
+    "main.js": "/math/static/js/main.c65c107d.chunk.js",
+    "main.js.map": "/math/static/js/main.c65c107d.chunk.js.map",
     "runtime-main.js": "/math/static/js/runtime-main.42b5b487.js",
     "runtime-main.js.map": "/math/static/js/runtime-main.42b5b487.js.map",
     "static/js/2.6c0f4112.chunk.js": "/math/static/js/2.6c0f4112.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5f6ac02c.chunk.js": "/math/static/js/3.5f6ac02c.chunk.js",
     "static/js/3.5f6ac02c.chunk.js.map": "/math/static/js/3.5f6ac02c.chunk.js.map",
     "index.html": "/math/index.html",
-    "static/css/main.90e58aee.chunk.css.map": "/math/static/css/main.90e58aee.chunk.css.map",
+    "static/css/main.3c1112fc.chunk.css.map": "/math/static/css/main.3c1112fc.chunk.css.map",
     "static/js/2.6c0f4112.chunk.js.LICENSE.txt": "/math/static/js/2.6c0f4112.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/math/static/media/SaucerBB.6b33c8c9.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.42b5b487.js",
     "static/js/2.6c0f4112.chunk.js",
-    "static/css/main.90e58aee.chunk.css",
-    "static/js/main.65ead6b4.chunk.js"
+    "static/css/main.3c1112fc.chunk.css",
+    "static/js/main.c65c107d.chunk.js"
   ]
 }
