@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/math/static/css/main.3c1112fc.chunk.css",
-    "main.js": "/math/static/js/main.ea0528b0.chunk.js",
-    "main.js.map": "/math/static/js/main.ea0528b0.chunk.js.map",
+    "main.css": "/math/static/css/main.d46caac5.chunk.css",
+    "main.js": "/math/static/js/main.1be80028.chunk.js",
+    "main.js.map": "/math/static/js/main.1be80028.chunk.js.map",
     "runtime-main.js": "/math/static/js/runtime-main.42b5b487.js",
     "runtime-main.js.map": "/math/static/js/runtime-main.42b5b487.js.map",
-    "static/js/2.06acd4d5.chunk.js": "/math/static/js/2.06acd4d5.chunk.js",
-    "static/js/2.06acd4d5.chunk.js.map": "/math/static/js/2.06acd4d5.chunk.js.map",
+    "static/js/2.16ce994f.chunk.js": "/math/static/js/2.16ce994f.chunk.js",
+    "static/js/2.16ce994f.chunk.js.map": "/math/static/js/2.16ce994f.chunk.js.map",
     "static/js/3.5f6ac02c.chunk.js": "/math/static/js/3.5f6ac02c.chunk.js",
     "static/js/3.5f6ac02c.chunk.js.map": "/math/static/js/3.5f6ac02c.chunk.js.map",
     "index.html": "/math/index.html",
-    "static/css/main.3c1112fc.chunk.css.map": "/math/static/css/main.3c1112fc.chunk.css.map",
-    "static/js/2.06acd4d5.chunk.js.LICENSE.txt": "/math/static/js/2.06acd4d5.chunk.js.LICENSE.txt",
+    "service-worker.js": "/math/service-worker.js",
+    "service-worker.js.map": "/math/service-worker.js.map",
+    "static/css/main.d46caac5.chunk.css.map": "/math/static/css/main.d46caac5.chunk.css.map",
+    "static/js/2.16ce994f.chunk.js.LICENSE.txt": "/math/static/js/2.16ce994f.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/math/static/media/SaucerBB.6b33c8c9.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.42b5b487.js",
-    "static/js/2.06acd4d5.chunk.js",
-    "static/css/main.3c1112fc.chunk.css",
-    "static/js/main.ea0528b0.chunk.js"
+    "static/js/2.16ce994f.chunk.js",
+    "static/css/main.d46caac5.chunk.css",
+    "static/js/main.1be80028.chunk.js"
   ]
 }
