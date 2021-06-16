@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/math/static/css/main.1533800d.chunk.css",
-    "main.js": "/math/static/js/main.10e2d58d.chunk.js",
-    "main.js.map": "/math/static/js/main.10e2d58d.chunk.js.map",
+    "main.js": "/math/static/js/main.87399471.chunk.js",
+    "main.js.map": "/math/static/js/main.87399471.chunk.js.map",
     "runtime-main.js": "/math/static/js/runtime-main.42b5b487.js",
     "runtime-main.js.map": "/math/static/js/runtime-main.42b5b487.js.map",
-    "static/js/2.4cc4711e.chunk.js": "/math/static/js/2.4cc4711e.chunk.js",
-    "static/js/2.4cc4711e.chunk.js.map": "/math/static/js/2.4cc4711e.chunk.js.map",
+    "static/js/2.e813d3b9.chunk.js": "/math/static/js/2.e813d3b9.chunk.js",
+    "static/js/2.e813d3b9.chunk.js.map": "/math/static/js/2.e813d3b9.chunk.js.map",
     "static/js/3.5f6ac02c.chunk.js": "/math/static/js/3.5f6ac02c.chunk.js",
     "static/js/3.5f6ac02c.chunk.js.map": "/math/static/js/3.5f6ac02c.chunk.js.map",
     "index.html": "/math/index.html",
     "service-worker.js": "/math/service-worker.js",
     "service-worker.js.map": "/math/service-worker.js.map",
     "static/css/main.1533800d.chunk.css.map": "/math/static/css/main.1533800d.chunk.css.map",
-    "static/js/2.4cc4711e.chunk.js.LICENSE.txt": "/math/static/js/2.4cc4711e.chunk.js.LICENSE.txt",
+    "static/js/2.e813d3b9.chunk.js.LICENSE.txt": "/math/static/js/2.e813d3b9.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/math/static/media/SaucerBB.6b33c8c9.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.42b5b487.js",
-    "static/js/2.4cc4711e.chunk.js",
+    "static/js/2.e813d3b9.chunk.js",
     "static/css/main.1533800d.chunk.css",
-    "static/js/main.10e2d58d.chunk.js"
+    "static/js/main.87399471.chunk.js"
   ]
 }
