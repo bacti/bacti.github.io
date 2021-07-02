@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/lessons/static/css/main.d13c87ae.chunk.css",
-    "main.js": "/lessons/static/js/main.5870532f.chunk.js",
-    "runtime-main.js": "/lessons/static/js/runtime-main.af900822.js",
-    "static/js/2.854fbb23.chunk.js": "/lessons/static/js/2.854fbb23.chunk.js",
-    "static/js/3.2932fec1.chunk.js": "/lessons/static/js/3.2932fec1.chunk.js",
+    "main.js": "/lessons/static/js/main.27b828eb.chunk.js",
+    "runtime-main.js": "/lessons/static/js/runtime-main.51fb6d66.js",
+    "static/js/2.c2d9e9fb.chunk.js": "/lessons/static/js/2.c2d9e9fb.chunk.js",
+    "static/js/3.d746789d.chunk.js": "/lessons/static/js/3.d746789d.chunk.js",
     "index.html": "/lessons/index.html",
     "service-worker.js": "/lessons/service-worker.js",
-    "static/js/2.854fbb23.chunk.js.LICENSE.txt": "/lessons/static/js/2.854fbb23.chunk.js.LICENSE.txt",
-    "static/js/main.5870532f.chunk.js.LICENSE.txt": "/lessons/static/js/main.5870532f.chunk.js.LICENSE.txt"
+    "static/js/2.c2d9e9fb.chunk.js.LICENSE.txt": "/lessons/static/js/2.c2d9e9fb.chunk.js.LICENSE.txt",
+    "static/js/main.27b828eb.chunk.js.LICENSE.txt": "/lessons/static/js/main.27b828eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af900822.js",
-    "static/js/2.854fbb23.chunk.js",
+    "static/js/runtime-main.51fb6d66.js",
+    "static/js/2.c2d9e9fb.chunk.js",
     "static/css/main.d13c87ae.chunk.css",
-    "static/js/main.5870532f.chunk.js"
+    "static/js/main.27b828eb.chunk.js"
   ]
 }
