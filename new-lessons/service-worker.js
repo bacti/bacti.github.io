@@ -72,7 +72,7 @@ self.addEventListener('fetch', (event) => {
         });
       })
     );
-  } else if (event.request.url.startsWith('https://bacti.tk:8081')) {
+  } else if (event.request.url.startsWith('https://bacti:8080')) {
     const mockResponse = new Response('', {
       status: 200,
       statusText: 'NOK',
@@ -99,7 +99,7 @@ self.addEventListener('message', async (event) => {
   const { uri, buffer } = event.data;
   const cache = await caches.open(RUNTIME);
   await cache.put(
-    new Request('https://bacti.tk:8081/' + uri, {
+    new Request('https://bacti:8080/' + uri, {
       method: 'GET',
       referrerPolicy: 'strict-origin-when-cross-origin',
     }),
