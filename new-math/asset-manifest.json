@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/new-math/static/css/main.c57e9c3f.chunk.css",
+    "main.js": "/new-math/static/js/main.8f9da305.chunk.js",
+    "runtime-main.js": "/new-math/static/js/runtime-main.5aa7afe2.js",
+    "static/js/2.ed2e39fa.chunk.js": "/new-math/static/js/2.ed2e39fa.chunk.js",
+    "static/js/3.8cb595af.chunk.js": "/new-math/static/js/3.8cb595af.chunk.js",
+    "index.html": "/new-math/index.html",
+    "static/js/2.ed2e39fa.chunk.js.LICENSE.txt": "/new-math/static/js/2.ed2e39fa.chunk.js.LICENSE.txt",
+    "static/js/main.8f9da305.chunk.js.LICENSE.txt": "/new-math/static/js/main.8f9da305.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa7afe2.js",
+    "static/js/2.ed2e39fa.chunk.js",
+    "static/css/main.c57e9c3f.chunk.css",
+    "static/js/main.8f9da305.chunk.js"
+  ]
+}
